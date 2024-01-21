@@ -4,10 +4,10 @@ Hi there, I'm Sergio Madrid, a Data Science student.
 
 ### 💻 Tech Stack:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>
+  <img src="icons/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="icons/c++.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="icons/r.svg" title="R" alt="R" width="40" height="40"/>
 </div>
 
 ### 📊 GitHub Stats:
