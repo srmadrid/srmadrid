@@ -4,6 +4,7 @@ Hi there, I'm Sergio Madrid, a Data Science student.
 
 ### 💻 Tech Stack:
 <div>
+  <img src="icons/zig.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="icons/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="icons/c++.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
