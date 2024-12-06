@@ -1,8 +1,3 @@
-### 💫 About Me:
-Hi there, I'm Sergio Madrid, a Data Science student.
-
-
-### 💻 Tech Stack:
 <div>
   <img src="icons/zig.svg" title="Zig" alt="Zig" width="40" height="40"/>&nbsp;
   <img src="icons/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -12,7 +7,7 @@ Hi there, I'm Sergio Madrid, a Data Science student.
   <img src="icons/matlab.png" title="Matlab" alt="Matlab" width="45" height="40"/>
 </div>
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srmadrid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
